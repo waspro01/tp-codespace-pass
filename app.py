@@ -51,7 +51,7 @@ def home():
     (<a href="https://wikimedia.org"
     target="_blank" rel="noopener">source de l’image</a>).
     </p>
-    <p><strong>Version 1</strong></p>
+    <p><strong>Version 2</strong></p>
     </body>
     </html>
     """
